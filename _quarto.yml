@@ -1,4 +1,5 @@
-project:
+project: ESS 330 Project
+author: Emily Hamre, Olivia Gilpin, Josh Ray
   type: manuscript
   output-dir: docs 
 manuscript:
