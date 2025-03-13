@@ -1,7 +1,7 @@
 ---
 title: ESS 330 Paper
 authors:
-  - name: Emily Hamre
+  - name: Emily Hamre, Oliva, Josh
     affiliation: Quantitative Reasoning of Ecosystem Science
     roles: writing
     corresponding: true
@@ -12,5 +12,10 @@ bibliography: references.bib
 This is a simple placeholder for the manuscript's main document [@knuth84].
 
 ##Seeing if new citation works
-[kimmins2004forest]
+[@kimmins2004forest]
 
+[@morris2010anthropogenic]
+
+[@dar2022influence]
+
+[@svajda2016trail]
