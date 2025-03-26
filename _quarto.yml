@@ -1,7 +1,13 @@
-project: ESS 330 Project
-author: Emily Hamre, Olivia Gilpin, Josh Ray
-  type: manuscript
-  output-dir: docs 
+project:
+  title: "ESS 330 Project"
+
+author:
+  - Emily Hamre
+  - Olivia Gilpin
+  - Josh Ray
+
+output-dir: docs
+
 manuscript:
   article: index.qmd
 
@@ -12,11 +18,5 @@ format:
   docx: default
   jats: default
 
-  # (other formats)
-  # pdf: default
-
 execute:
   freeze: true
-
-
-
